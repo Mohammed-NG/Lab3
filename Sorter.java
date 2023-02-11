@@ -38,4 +38,11 @@ public class Sorter {
         insertionSort(array);
     }
 
+
+    public void sort(int array[] ){
+        selectionSort(array);
+    }
+
+
+
 }
