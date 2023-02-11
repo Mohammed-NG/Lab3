@@ -40,6 +40,10 @@ public class Sorter {
         selectionSort(array);
     }
 
+    public void sort2(int array[] ){
+        insertionSort(array);
+    }
+
 
 
 }
